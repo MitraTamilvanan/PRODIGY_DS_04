@@ -1,0 +1,2 @@
+# PRODIGY_DS_04
+2 Twitter Dataset 'training' and 'validation' were taken from Kaggle and treated as seperate dataframes and trained into two Models Tf-idf and Random Forest. Further,Data is Pre-processed and pre-processed data is trained into Tf-idf,Random Forest Model and Classification report were framed. A New Dataframe created by merging the 'training' and 'validation' dataset with the new dataset classification report framed for the two same models.
